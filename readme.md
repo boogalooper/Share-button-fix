@@ -4,7 +4,7 @@
 
 Download [UIColors.txt](U) file and copy it to your Photoshop directory:
 
-* **Windows**:` c:\Program Files\Adobe\Adobe Photoshop 2022\Adobe Photoshop 2022\Required\UIColors.txt`
+* **Windows**: `c:\Program Files\Adobe\Adobe Photoshop 2022\Adobe Photoshop 2022\Required\UIColors.txt`
 * **MacOS**: Programs -> Adobe Photoshop 2022 -> find app icon, open context menu and select 'Show Package Contents', then move saved file to the `/Contents/Required/UIColors.txt`
 
 Restart Photoshop.
