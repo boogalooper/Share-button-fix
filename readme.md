@@ -1,4 +1,4 @@
-# Share button tweak for Photoshop 23.2.2
+# Share button tweak for Photoshop 23.2.2 and above
 
 ![](assets/20220317_224957_2022-03-17_01-21-19.jpg)
 
