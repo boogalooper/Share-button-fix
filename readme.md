@@ -2,7 +2,7 @@
 
 ![](assets/20220317_224957_2022-03-17_01-21-19.jpg)
 
-> ### Using a pre-generated interface colors file
+## Using a pre-generated interface colors file
 
 Download [UIColors.txt](UIColors.txt) file and copy it to your Photoshop directory:
 
@@ -13,7 +13,7 @@ Restart Photoshop.
 
 **Do not forget to backup your original UIColors.txt**
 
-> ### Generate your own interface colors file with script
+## Generate your own interface colors file with script
 
 Download [UIcolors.jsx](UIcolors.jsx) script file and copy it to `Presets\Scripts\` folder of Photoshop
 
