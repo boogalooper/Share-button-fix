@@ -15,11 +15,4 @@ Restart Photoshop.
 
 ## Generate your own interface colors file with script
 
-Download [UIcolors.jsx](UIcolors.jsx) script file and copy it to `Presets\Scripts\` folder of Photoshop
-
-Restart Photoshop - script will appear in the application scripts menu.
-
-![](assets/20220812_234126_2022-06-28_07-26-56.png)
-
-[![](assets/20220812_235333_2022-08-12_23-51-33.png)](https://www.youtube.com/watch?v=Gz42iLbwGc8)
-
+Download the latest version of [UIcolors.jsx](https://github.com/boogalooper/UIcolors/blob/master/UIcolors.jsx) from the GitHub repository [https://github.com/boogalooper/UIcolors](https://github.com/boogalooper/UIcolors)
